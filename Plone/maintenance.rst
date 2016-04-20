@@ -10,12 +10,22 @@ Types:
 
   * collective.base64imagepatch
   * RestricedPython
+  * UnrestrictedPython (Idea)
+  * AccessControl
+  * zope.untrustedpython
+
 
   * plone.app.vulnerabilities
+  * plone.vulnerabilitieschecks.core
+  * plone.vulnerabilitieschecks.buildout
+  * plone.vulnerabilitieschecks.instance_startup
+  * plone.vulnerabilitieschecks.tests
+  * buildout.autoapplyplonehotfixes
 
 * Feature Enhancements
 
   * wildcard.foldercontents
+  * plone.namedfile (Exif Image Rotation)
 
 * Community Related:
 
